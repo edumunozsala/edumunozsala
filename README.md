@@ -10,6 +10,7 @@
 Detailed board on  my [Studies & Personal Projects on Data Science and Machine Learning](trello)
 
 ### Certifications
+- :memo: Azure Data Scientist Associate
 - :memo: AWS Certified Machine Learning Specialty
 - :memo: Machine Learning Engineer Nanodegree on Udacity
 - :memo: Deeplearningai Specializations: Deep Learning, NLP, GANs, Tensorflow
